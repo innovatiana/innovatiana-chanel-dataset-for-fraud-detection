@@ -28,7 +28,6 @@ innovatiana-chanel-dataset-for-fraud-detection/
 <br>│         ├── ...
 <br>├── ...
 <br>│
-<br>│
 
 # License
 This dataset is intended for educational and research purposes only. All product images are the property of their respective copyright holders. Users must ensure they comply with applicable laws and regulations when using this dataset. Innovatiana does not claim any rights to these images.
