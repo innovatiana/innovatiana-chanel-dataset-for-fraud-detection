@@ -15,51 +15,20 @@ This dataset is intended to assist with AI use cases, including but not limited 
 
 # Dataset structure
 innovatiana-chanel-dataset-for-fraud-detection/
-│
-├── bag---2.55/
-│   ├── 1
-│      ├── 1.jpg
-│      ├── 2.jpg
-│      ├── ...
-│   ├── 2
-│      ├── 1.jpg
-│      ├── 2.jpg
-│      ├── ...
-│   ├── 3
-│      ├── 1.jpg
-│      ├── 2.jpg
-│      ├── ...
-│   ├── ...
-│      ├── ...
-│      ├── ...
-│      ├── ...
-│
-├── bag---boy
-│   ├── 1
-│      ├── 1.jpg
-│      ├── 2.jpg
-│      ├── ...
-│   ├── 2
-│      ├── 1.jpg
-│      ├── 2.jpg
-│      ├── ...
-│   ├── 3
-│      ├── 1.jpg
-│      ├── 2.jpg
-│      ├── ...
-│   ├── ...
-│      ├── ...
-│      ├── ...
-│      ├── ...
-│
-├── bag---gabrielle
-│   ├── 1
-│      ├── 1.jpg
-│      ├── 2.jpg
-│      ├── ...
-├── ...
-│
-│
+<br>├── bag---2.55/
+<br>├── 1
+<br>│    ├── 1
+<br>│       ├── 1.jpg
+<br>│         ├── 2.jpg
+<br>│         ├── ...
+<br>├── 2
+<br>│    ├── 2
+<br>│         ├── 1.jpg
+<br>│         ├── 2.jpg
+<br>│         ├── ...
+<br>├── ...
+<br>│
+<br>│
 
 # License
 This dataset is intended for educational and research purposes only. All product images are the property of their respective copyright holders. Users must ensure they comply with applicable laws and regulations when using this dataset. Innovatiana does not claim any rights to these images.
