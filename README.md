@@ -3,9 +3,9 @@ This dataset contains a curated collection of images of Chanel products gathered
 
 # Dataset Description
 Content: The dataset includes high-quality images of Chanel products, such as clothing, accessories, footwear, handbags, and perfumes.
-Sources: Images were collected from a variety of websites, ensuring a diverse representation of Chanel's product range, in diverse scenes.
-Format: All images are in JPG format, organized into folders based on product categories.
-Annotations: Each image is raw, without metadata. Feel free to drop us a message if you are exploring a Use Case requiring metadata.
+<br>Sources: Images were collected from a variety of websites, ensuring a diverse representation of Chanel's product range, in diverse scenes.
+<br>Format: All images are in JPG format, organized into folders based on product categories.
+<br>Annotations: Each image is raw, without metadata. Feel free to drop us a message if you are exploring a Use Case requiring metadata.
 
 # Usage
 This dataset is intended to assist with AI use cases, including but not limited to:
